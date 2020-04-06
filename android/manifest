@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: admobrewarded
+author: Didier Fontaine
+license: Specify your license
+copyright: Copyright (c) 2020 by Your Company
+
+# these should not be edited
+name: admobrewarded
+moduleid: net.birdirbir.admobrewarded
+guid: 08bf1d38-2807-41e7-8d44-873f2a4fe174
+platform: android
+minsdk: 9.0.0.GA

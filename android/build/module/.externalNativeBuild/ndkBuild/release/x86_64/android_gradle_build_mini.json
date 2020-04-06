@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/src/main/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/Users/fontainedidier/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/src/main/jni/Android.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/lib APP_CPPFLAGS+\u003d-std\u003dc++11 APP_STL:\u003dc++_shared clean"
+  ],
+  "libraries": {
+    "net.birdirbir.admobrewarded-release-x86_64": {
+      "artifactName": "net.birdirbir.admobrewarded",
+      "buildCommand": "/Users/fontainedidier/android-ndk-r16b/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/src/main/jni/Android.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/lib APP_CPPFLAGS+\u003d-std\u003dc++11 APP_STL:\u003dc++_shared -j4 /Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/obj/local/x86_64/libnet.birdirbir.admobrewarded.so",
+      "abi": "x86_64",
+      "output": "/Volumes/DATAHD/Appcelerator/admobrewarded/android/build/module/build/intermediates/ndkBuild/release/obj/local/x86_64/libnet.birdirbir.admobrewarded.so"
+    }
+  }
+}
